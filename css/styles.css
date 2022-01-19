@@ -46,7 +46,6 @@ body {
 .logo:hover,
 .logo:focus {
   color: var(--accent-color);
-  text-decoration: underline;
 }
 .current {
   color: var(--accent-color);
@@ -208,10 +207,10 @@ body {
 .portfolio-cards-link {
   text-decoration: none;
 }
-.portfolio-cards-link:hover,
+/* .portfolio-cards-link:hover,
 .portfolio-cards-link:focus {
   text-decoration: underline;
-}
+} */
 
 .portfolio-cards-titles {
   color: var(--titles-color);
